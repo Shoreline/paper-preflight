@@ -1,0 +1,7 @@
+__pycache__/
+.DS_Store
+.preflight/
+# 会议模板原件不随仓库分发，只提交 venue.json 与 SOURCE.md
+templates/*/*
+!templates/*/venue.json
+!templates/*/SOURCE.md

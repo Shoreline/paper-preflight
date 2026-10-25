@@ -1,0 +1,7 @@
+{
+  "name": "ICLR 2027 (review version)",
+  "page_limit": 9,
+  "anon_string": "Anonymous authors",
+  "body_end": "REFERENCES|REPRODUCIBILITY STATEMENT|ETHICS STATEMENT|AI USE STATEMENT|ACKNOWLEDG(E)?MENTS?|LLM USAGE",
+  "source": "https://github.com/ICLR/Master-Template/tree/master/iclr2027"
+}
